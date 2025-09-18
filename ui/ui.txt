@@ -1,4 +1,0 @@
-Javascript-
-│
-└── ui
-    └── file1.js
